@@ -94,13 +94,3 @@ print(type(number))  # Output: <class 'int'>
 # number = int(number)
 # print(number)
 
-# Example 2: Convert an integer to a string
-number1 = 123
-print(type(number1))  # Output: <class 'int'>
-number1 = str(number1)
-print(type(number1))  # Output: <class 'str'>
-
-# Example 3: Convert a string to a float
-number2 = "3.14"
-number2 = float(number2)
-print(number2)  # Output: 3.14
